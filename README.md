@@ -1,4 +1,4 @@
-# Keissi — Vektorisoitu (Python / NumPy)
+# Monte-Carlo Simulation for Investment Decision
 
 A simulation-based decision analysis project comparing industrial oven investment alternatives over a **5-year horizon**. The model estimates **NPV distributions** under uncertainty in **energy prices**, **capacity-driven storage**, and **failure/repair events**.
 
