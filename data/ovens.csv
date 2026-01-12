@@ -1,0 +1,5 @@
+﻿Oven;Investment (€);Maintenance (€ / year);Electricity (units/hr);Gas (units/hr);Daily Failure Prob.;Capacity (units);Gas (savings);Electricity (savings)
+Current;—;15;3.0;2.7;0.03;300;0;0.03
+Oven 1;160;20;2.7;2.2;0.02;180;0.05;0.1
+Oven 2;240;25;2.5;2.0;0.02;200;0.1;0.15
+Oven 3;280;30;1.9;1.7;0.01;220;0.15;0.15
